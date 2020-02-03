@@ -7,3 +7,5 @@ AdvanceIQ
 -Jakin (Sound)
 -Yuxin (Art)
 -Roy (Story)
+
+https://globalgamejam.org/2020/games/advanceiq
